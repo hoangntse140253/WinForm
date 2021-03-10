@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\ASM3\ProductLibrary\bin\Debug\ProductLibrary.dll
+C:\Users\DELL\source\repos\ASM3\ProductLibrary\bin\Debug\ProductLibrary.pdb
+C:\Users\DELL\source\repos\ASM3\ProductLibrary\obj\Debug\ProductLibrary.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ASM3\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ASM3\ProductLibrary\obj\Debug\ProductLibrary.dll
+C:\Users\DELL\source\repos\ASM3\ProductLibrary\obj\Debug\ProductLibrary.pdb
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductLibrary\bin\Debug\ProductLibrary.dll
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductLibrary\bin\Debug\ProductLibrary.pdb
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductLibrary\obj\Debug\ProductLibrary.csprojAssemblyReference.cache
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductLibrary\obj\Debug\ProductLibrary.csproj.CoreCompileInputs.cache
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductLibrary\obj\Debug\ProductLibrary.dll
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductLibrary\obj\Debug\ProductLibrary.pdb

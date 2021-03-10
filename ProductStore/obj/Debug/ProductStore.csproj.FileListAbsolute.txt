@@ -1,0 +1,28 @@
+C:\Users\DELL\source\repos\ASM3\ProductStore\bin\Debug\ProductStore.exe.config
+C:\Users\DELL\source\repos\ASM3\ProductStore\bin\Debug\ProductStore.exe
+C:\Users\DELL\source\repos\ASM3\ProductStore\bin\Debug\ProductStore.pdb
+C:\Users\DELL\source\repos\ASM3\ProductStore\bin\Debug\ProductLibrary.dll
+C:\Users\DELL\source\repos\ASM3\ProductStore\bin\Debug\ProductLibrary.pdb
+C:\Users\DELL\source\repos\ASM3\ProductStore\obj\Debug\ProductStore.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\ASM3\ProductStore\obj\Debug\ProductStore.frmMainProduct.resources
+C:\Users\DELL\source\repos\ASM3\ProductStore\obj\Debug\ProductStore.frmSearch.resources
+C:\Users\DELL\source\repos\ASM3\ProductStore\obj\Debug\ProductStore.Properties.Resources.resources
+C:\Users\DELL\source\repos\ASM3\ProductStore\obj\Debug\ProductStore.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\ASM3\ProductStore\obj\Debug\ProductStore.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\ASM3\ProductStore\obj\Debug\ProductStore.csproj.CopyComplete
+C:\Users\DELL\source\repos\ASM3\ProductStore\obj\Debug\ProductStore.exe
+C:\Users\DELL\source\repos\ASM3\ProductStore\obj\Debug\ProductStore.pdb
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\bin\Debug\ProductStore.exe.config
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\bin\Debug\ProductStore.exe
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\bin\Debug\ProductStore.pdb
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\bin\Debug\ProductLibrary.dll
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\bin\Debug\ProductLibrary.pdb
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\obj\Debug\ProductStore.csprojAssemblyReference.cache
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\obj\Debug\ProductStore.frmMainProduct.resources
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\obj\Debug\ProductStore.frmSearch.resources
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\obj\Debug\ProductStore.Properties.Resources.resources
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\obj\Debug\ProductStore.csproj.GenerateResource.cache
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\obj\Debug\ProductStore.csproj.CoreCompileInputs.cache
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\obj\Debug\ProductStore.csproj.CopyComplete
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\obj\Debug\ProductStore.exe
+E:\LEARN\PRN292\Assignment\Assignment 3\ASM3\ProductStore\obj\Debug\ProductStore.pdb
